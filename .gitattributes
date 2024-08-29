@@ -1,2 +1,53 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Name - UX/UI Designer & Photographer</title>
+    <style>
+        /* CSS styles will be added here */
+    </style>
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="#home">Home</a></li>
+                <li><a href="#uxui">UX/UI</a></li>
+                <li><a href="#video">Video</a></li>
+                <li><a href="#photo">Photography</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section id="home" class="hero parallax">
+            <h1>Your Name</h1>
+            <p>UX/UI Designer | Videographer | Photographer</p>
+        </section>
+
+        <section id="uxui">
+            <h2>UX/UI Designs</h2>
+            <!-- Add your UX/UI project showcases here -->
+        </section>
+
+        <section id="video">
+            <h2>Video Projects</h2>
+            <!-- Add your video project showcases here -->
+        </section>
+
+        <section id="photo">
+            <h2>Photography</h2>
+            <!-- Add your photography showcases here -->
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 Your Name. All rights reserved.</p>
+    </footer>
+
+    <script>
+        // JavaScript will be added here
+    </script>
+</body>
+</html>
